@@ -1,0 +1,35 @@
+{
+  "name": "inquire",
+  "version": "0.4.8",
+  "description": "Generate advanced URL query strings.",
+  "keywords": [
+    "armet",
+    "query",
+    "string",
+    "url"
+  ],
+  "homepage": "https://github.com/concordusapps/inquire.js",
+  "bugs": {
+    "url": "https://github.com/concordusapps/inquire.js/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Concordus Applications"
+  },
+  "contributors": [
+    "Hardy Jones <jones3.hardy@gmail.com> (https://github.com/joneshf)"
+  ],
+  "main": "lib/inquire.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/concordusapps/inquire.js.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-purescript": "~0.2.0",
+    "grunt-execute": "~0.1.5"
+  },
+  "engines": {
+    "node": ">=0.8.22"
+  }
+}
